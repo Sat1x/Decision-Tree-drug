@@ -47,7 +47,7 @@ Run the script from your terminal:
 -Clone the repository:
 
 ```bash
-git clone "https://github.com/Sat1x/decision-tree-drug"
+git clone "https://github.com/Ivan-Koptiev/decision-tree-drug"
 ```
 
 -Run the script:
